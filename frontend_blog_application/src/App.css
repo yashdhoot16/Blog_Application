@@ -1,0 +1,30 @@
+body{
+  background: #e8e7e7!important;
+}
+
+.page-item .page-link{
+  color: black!important;
+}
+
+.page-item.active .page-link{
+  background-color: grey!important;
+  border-color: grey!important;
+  color: black!important;
+}
+
+.pagination{
+  justify-content: center!important;
+}
+
+/* NavLink{
+  color: black!important;
+} */
+
+tr , th{
+  text-align: center;
+  width: 40%;
+}
+
+td{
+  text-align: justify;
+}
