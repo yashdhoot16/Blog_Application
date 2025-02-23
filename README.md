@@ -7,5 +7,8 @@ Technologies: Java, Spring Boot, RESTful Web Services, Spring Data JPA, Spring S
  Architected APIs to handle secure access and CRUD operations.
  Built UI components using ReactJS, with API integration for seamless interaction using axios library.
 
-Note: 
+Note: For Database Setup 
+1.Install the MySQL Command Line Client. 
+2.Create a database with the same name as specified in the application.properties file of the application. 
+3.The creation of tables and columns is automatically managed by Spring Data JPA.
  
