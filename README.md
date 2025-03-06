@@ -11,7 +11,9 @@
 </ul><br>
 
 <b>Note</b>: For Database Setup 
+<ul>
 <li>Install the MySQL Command Line Client.</li> 
 <li>Create a database with the same name as specified in the application.properties file of the application.</li>
 <li>The creation of tables and columns is automatically managed by Spring Data JPA.</li>
+</ul>
  
